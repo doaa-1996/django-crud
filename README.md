@@ -1,3 +1,3 @@
 # django-crud
 
-Pull request : https://github.com/doaa-1996/django-crud/pull/1
+Pull request :https://github.com/doaa-1996/django-crud/pull/2
