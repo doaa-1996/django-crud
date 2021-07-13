@@ -25,3 +25,6 @@ class Snacks_Tests(TestCase):
         expected='snack_create.html'
         self.assertTemplateUsed(actual,expected) 
 
+
+
+    
